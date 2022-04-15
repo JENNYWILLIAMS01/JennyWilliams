@@ -1,0 +1,17 @@
+public class NumberOfYears
+ public static void(String[] args)}
+   number of int=1000000000;
+   Scanner Scanner=new Scanner(System.in);
+   System.out.println(Enter a number in years:");
+   int icecream=Scanner.nextint();
+
+   int result = icecream + years;
+   System.out.println("Your answer is " + result);
+
+
+
+}
+
+
+
+} 
