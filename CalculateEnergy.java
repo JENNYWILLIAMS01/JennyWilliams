@@ -18,4 +18,7 @@ public class CalculateEnergy{
 		System.out.print("The energy needed is " + energy);
 
 }
+
+
+
 }
